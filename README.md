@@ -1,2 +1,6 @@
 # Tic-Tac-Toe
- Java Tic-Tac-Toe interact with command line
+A Tic-Tac-Toe game that is written in Java. The user can interact with the game by providing coordinates to the terminal. The coordinates should be provided in this format;
+(1, 3) (2, 3) (3, 3)
+(1, 2) (2, 2) (3, 2)
+(1, 1) (2, 1) (3, 1)
+
