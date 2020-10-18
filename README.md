@@ -5,5 +5,6 @@ A Tic-Tac-Toe game that is written in Java. The user can interact with the game 
 (1, 2) (2, 2) (3, 2)
 (1, 1) (2, 1) (3, 1)
 ```
-![demonstration (1)](https://user-images.githubusercontent.com/65969444/96377095-fb9d3b80-117a-11eb-9254-f261c45cb740.gif)
+![demo](https://user-images.githubusercontent.com/65969444/96377149-6babc180-117b-11eb-9139-5233b5d0523e.gif)
+
 
